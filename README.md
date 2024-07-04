@@ -1,8 +1,11 @@
 # ATM_SIMULATION
+
 ATM Machine Simulation with Pywebio and Flask 🚀💳
+
 Welcome to the ATM Machine Simulation project! This application demonstrates a simple ATM machine system implemented using Python. It includes core functionalities such as balance inquiry, cash withdrawal, cash deposit, PIN change, and transaction history. Additionally, the project uses the Flask framework to create a web interface, enhanced by Pywebio for interactive input and output.
 
 Features ✨
+
 Balance Inquiry: Check your current account balance.
 Cash Withdrawal: Withdraw cash if sufficient balance is available.
 Cash Deposit: Deposit cash into your account.
@@ -17,6 +20,7 @@ python app.py
 The application will be accessible at http://localhost:8080.
 
 Usage 🖥️
+
 Open your browser and navigate to http://localhost:8080.
 Insert your card (simulate by pressing Enter).
 Enter your PIN to authenticate.
@@ -52,13 +56,17 @@ cash_withdrawal(): Handles cash withdrawal.
 cash_deposit(): Handles cash deposit.
 change_pin(): Handles PIN change.
 transaction_history(): Handles transaction history retrieval.
+
 Contributing 🤝
+
 Contributions are welcome! Feel free to submit issues, fork the repository, and open pull requests.
 
 License 📄
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgements 🙏
+
 Inspired by real-world ATM systems.
 Developed using Flask and Pywebio.
 Enjoy using the ATM Machine Simulation! 💸
